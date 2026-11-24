@@ -1,0 +1,10 @@
+# 编译产物
+*.exe
+*.dll
+
+# 临时 / IDE
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
